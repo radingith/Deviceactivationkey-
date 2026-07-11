@@ -14,67 +14,8 @@
     {
         "device_id": "812f3f240393ac74",
         "key": "behrad1",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "650b07f041e4b0ad",
-        "key": "royal1",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a2dcb946dde6af1e",
-        "key": "kirbehrad",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "f4d278b915e43823",
-        "key": "royal2",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7ae6f589c48a1ccf",
-        "key": "royal3",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "df9c85514a8eb83e",
-        "key": "royal4",
-        "expirydate": "18-07-2026",
-        "Allowoffline": false
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
-    {
-        "device_id": "b792b48415d41370",
-        "key": "royal5",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "938c379945145977",
-        "key": "royal6",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "531cc4bc62a2ff6d",
-        "key": "royal7",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "87bc71ef44e70535",
-        "key": "royal8",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "61e7c0347ac77249",
-        "key": "royal9",
-        "expirydate": "15-06-2027",
-        "Allowoffline": false
-    },
+    
 ]
