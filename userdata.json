@@ -82,5 +82,11 @@
         "key": "royal45",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "fb85afeb89f90480",
+        "key": "KOSMADARET",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
 ]
