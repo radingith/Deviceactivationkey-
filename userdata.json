@@ -76,5 +76,11 @@
         "key": "noghte",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "7fde59031d384910",
+        "key": "royal45",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
 ]
