@@ -89,4 +89,10 @@
         "expirydate": "31-12-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "ee0fe5e655db410b",
+        "key": "royal33",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
+    },
 ]
