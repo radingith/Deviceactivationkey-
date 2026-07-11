@@ -64,5 +64,17 @@
         "key": "royal7",
         "expirydate": "15-06-2027",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "87bc71ef44e70535",
+        "key": "royal8",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "61e7c0347ac77249",
+        "key": "royal9",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    },
 ]
