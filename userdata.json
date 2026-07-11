@@ -70,5 +70,11 @@
         "key": "mahziklikbate",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6975880027c69dae",
+        "key": "noghte",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
 ]
