@@ -118,7 +118,13 @@
         "key": "TOMAS_YT",
         "expirydate": "31-12-2027",
         "Allowoffline": true
-    }
+    },
+    {
+        "device_id": "a017c2eaf16fc0ec",
+        "key": "MMD_ROYAL",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
+    },
 
     
 ]
