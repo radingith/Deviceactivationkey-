@@ -136,7 +136,15 @@
         "key": "ROYAL_551",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "97cab588f1d75904",
+        "key": "REZA_ROYAL",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
+    
+    
 
     
 ]
