@@ -148,6 +148,12 @@
         "key": "ROYAL_555",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "8c2b71c046bd5370",
+        "key": "ROYAL_556",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
     
     
