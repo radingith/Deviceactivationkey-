@@ -178,6 +178,12 @@
         "key": "I_LOVE_YOU",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "9c2f57a6bf52e48a",
+        "key": "ROYAL_331",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
     
     
