@@ -184,11 +184,20 @@
         "key": "ROYAL_331",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "293bdf66f2f88cc9",
+        "key": "ROYAL_ami1",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "5e1aecb66b024789",
+        "key": "ROYAL_ragnor",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
     
     
-    
-    
-
     
 ]
