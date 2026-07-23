@@ -196,6 +196,12 @@
         "key": "ROYAL_ragnor",
         "expirydate": "31-12-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "812f3f240393ac74",
+        "key": "behrad1",
+        "expirydate": "31-12-2027",
+        "Allowoffline": true
     }
     
     
