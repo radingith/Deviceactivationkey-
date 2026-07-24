@@ -82,5 +82,11 @@
     "key": "roya24",
     "expirydate": "24-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "305c5ad5e586af4a",
+    "key": "roya25",
+    "expirydate": "24-08-2027",
+    "Allowoffline": true
   }
 ]
