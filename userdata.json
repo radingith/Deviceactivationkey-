@@ -58,5 +58,11 @@
     "key": "roya20",
     "expirydate": "24-08-2027",
     "Allowoffline": true
+  },
+  {
+    "device_id": "ca778badf29abc0c",
+    "key": "roya21",
+    "expirydate": "24-08-2027",
+    "Allowoffline": true
   }
 ]
